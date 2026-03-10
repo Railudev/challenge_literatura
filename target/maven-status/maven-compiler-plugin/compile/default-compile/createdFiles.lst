@@ -1,0 +1,13 @@
+com/alura/literatura/repository/BookRepository.class
+com/alura/literatura/model/AuthorDTO.class
+com/alura/literatura/repository/AuthorRepository.class
+com/alura/literatura/controller/AuthorController.class
+com/alura/literatura/ChallengeLiteraturaApplication.class
+com/alura/literatura/controller/WelcomeController.class
+com/alura/literatura/service/GutendexService.class
+com/alura/literatura/model/Author.class
+com/alura/literatura/service/LiteratureService.class
+com/alura/literatura/model/GutendexResponse.class
+com/alura/literatura/model/BookDTO.class
+com/alura/literatura/controller/BookController.class
+com/alura/literatura/model/Book.class

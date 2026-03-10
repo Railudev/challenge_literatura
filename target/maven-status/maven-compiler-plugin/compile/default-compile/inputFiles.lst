@@ -1,0 +1,13 @@
+/Volumes/UwU/Challenge Literatura/challenge_literatura/src/main/java/com/alura/literatura/model/Author.java
+/Volumes/UwU/Challenge Literatura/challenge_literatura/src/main/java/com/alura/literatura/controller/WelcomeController.java
+/Volumes/UwU/Challenge Literatura/challenge_literatura/src/main/java/com/alura/literatura/model/Book.java
+/Volumes/UwU/Challenge Literatura/challenge_literatura/src/main/java/com/alura/literatura/repository/BookRepository.java
+/Volumes/UwU/Challenge Literatura/challenge_literatura/src/main/java/com/alura/literatura/service/GutendexService.java
+/Volumes/UwU/Challenge Literatura/challenge_literatura/src/main/java/com/alura/literatura/ChallengeLiteraturaApplication.java
+/Volumes/UwU/Challenge Literatura/challenge_literatura/src/main/java/com/alura/literatura/controller/AuthorController.java
+/Volumes/UwU/Challenge Literatura/challenge_literatura/src/main/java/com/alura/literatura/controller/BookController.java
+/Volumes/UwU/Challenge Literatura/challenge_literatura/src/main/java/com/alura/literatura/service/LiteratureService.java
+/Volumes/UwU/Challenge Literatura/challenge_literatura/src/main/java/com/alura/literatura/model/BookDTO.java
+/Volumes/UwU/Challenge Literatura/challenge_literatura/src/main/java/com/alura/literatura/model/AuthorDTO.java
+/Volumes/UwU/Challenge Literatura/challenge_literatura/src/main/java/com/alura/literatura/repository/AuthorRepository.java
+/Volumes/UwU/Challenge Literatura/challenge_literatura/src/main/java/com/alura/literatura/model/GutendexResponse.java
